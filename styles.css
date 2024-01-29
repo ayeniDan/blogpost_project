@@ -56,7 +56,7 @@ h6 {
 .hero {
 	height: 100vh;
 	background-color: #863ae8;
-	color: white;
+	color: #fff;
 	text-align: center;
 
 	display: flex;
